@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ch4/ch4.md",
-                "mode": "preview",
+                "file": "SUMMARY.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ch4"
+              "title": "SUMMARY"
             }
           }
         ]
@@ -164,32 +164,32 @@
   },
   "active": "0bbde449ba50e9df",
   "lastOpenFiles": [
+    "cover.jpg",
+    "ch1/1.1.md",
+    "ch1/1.3.md",
+    "ch1/ch1.md",
+    "ch2/2.2.md",
+    "ch2/2.1.md",
     "SUMMARY.md",
+    "README.md",
+    "ch4/ch4.md",
     "ch3/3.2.md",
     "ch2/2.5.md",
     "ch2/2.6.md",
-    "cover.jpg",
-    "ch1/ch1.md",
     "ch1/1.6.md",
     "ch1/1.5.md",
     "ch1/1.4.md",
-    "ch1/1.3.md",
-    "ch1/1.1.md",
     "ch2/2.7.md",
     "ch2/2.4.md",
     "ch2/2.3.md",
-    "ch2/2.2.md",
-    "ch2/2.1.md",
     "ch3/3.1.md",
     "ch3/3.3.md",
     "ch3/3.4.md",
     "ch3/3.5.md",
     "ch3/ch3.md",
-    "ch4/ch4.md",
     "ch5/ch5.md",
     "img/getitem_rlist_0.png",
     "ch1/1.2.md",
-    "ch2/ch2.md",
-    "README.md"
+    "ch2/ch2.md"
   ]
 }
